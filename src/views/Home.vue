@@ -1,5 +1,6 @@
 <template>
     <div class="home">
+        <h1>王龙</h1>
         <div class="content">
             <div class="tab_left">
                 <div
